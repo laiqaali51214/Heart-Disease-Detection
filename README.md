@@ -1,7 +1,5 @@
 # Heart-Disease-Detection
 
-## End-to-End Machine Learning Project
-
 This project is designed to guide you through the complete workflow of a machine learning project, from understanding the problem and preparing the data to training, evaluating, and fine-tuning a machine learning model. The goal is to predict heart disease diagnosis based on patient data, using real-world datasets and modern machine learning techniques.
 
 ## Project Overview
